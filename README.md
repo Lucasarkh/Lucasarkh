@@ -1,6 +1,4 @@
-
-
-<img alt="Night Coding" src="./assets/Hand%20Wave.gif" width='40' align="left"/><h2>Hey there! I'm Lucas!</h2>
+ ## 👋 &nbsp;Hey there! I'm Lucas
 
 <!-- ## 👋 &nbsp;Hey there! I'm Lucas -->
 
@@ -14,7 +12,7 @@
 ✉️ &nbsp;You can shoot me an email at lucasarchanjo1010@gmail.com! I'll try to respond as soon as I can.\
 📄 &nbsp;Please have a look at my [Resume](https://drive.google.com/file/d/19WE1P5_qmQANgO0LxItkNKcgS9EzcF2_/view?usp=sharing) for more details about me. I'm open to feedback and suggestions!
 
-<img alt="Night Coding" src="https://github.com/Lucasarkh/Lucasarkh/blob/main/assets/img/coding.gif" width="300" align="right"/>
+<img alt="Night Coding" src="https://github.com/Lucasarkh/Lucasarkh/blob/main/assets/img/coding.gif" width="250" align="right"/>
 
 ### 🛠 &nbsp;Tech Stack
 
