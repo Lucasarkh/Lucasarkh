@@ -5,8 +5,8 @@
 ### 👨🏻‍💻 &nbsp;About Me
 
 💡 &nbsp;I like to explore new technologies and develop software solutions for the web.\
-🎓 &nbsp;I'm currently studying Software Engineering at the university Anhanguera of Campinas.\
-🌱 &nbsp;I'm on track for learning more about jS frameworks and UI design.\
+🎓 &nbsp;I'm currently studying Software Engineering at the Anhanguera of Campinas university.\
+🌱 &nbsp;I'm on track for learning more about jS frameworks and UI UX design.\
 ✍️ &nbsp;In my free time, I pursue Graphic Design.\
 💬 &nbsp;Feel free to reach out to me for jobs, or just for some interesting discussion.\
 ✉️ &nbsp;You can shoot me an email at lucasarchanjo1010@gmail.com! I'll try to respond as soon as I can.\
